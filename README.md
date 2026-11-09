@@ -1,6 +1,6 @@
-# ⏳ Countdown Timer — "Coming Soon" Page
+# â³ Countdown Timer â€” "Coming Soon" Page
 
-A sleek **launch countdown timer** built with **vanilla HTML, CSS, and JavaScript**. It shows days, hours, minutes, and seconds remaining until a target date, over a full-screen background image with a dark overlay — perfect for "We Are Coming Soon" landing pages.
+A sleek **launch countdown timer** built with **vanilla HTML, CSS, and JavaScript**. It shows days, hours, minutes, and seconds remaining until a target date, over a full-screen background image with a dark overlay â€” perfect for "We Are Coming Soon" landing pages.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -8,7 +8,7 @@ A sleek **launch countdown timer** built with **vanilla HTML, CSS, and JavaScrip
 
 ---
 
-## 📌 Project Type
+## ðŸ“Œ Project Type
 
 | | |
 |---|---|
@@ -16,35 +16,35 @@ A sleek **launch countdown timer** built with **vanilla HTML, CSS, and JavaScrip
 | **Type** | Static single-page countdown (no routing) |
 | **Purpose** | Count down to a product launch, event, or deadline |
 | **Dependencies** | None |
-| **Build Tools** | None — runs directly in the browser |
+| **Build Tools** | None â€” runs directly in the browser |
 
 ---
 
-## 🛠 Tech Stack
+## ðŸ›  Tech Stack
 
 | Layer | Technology |
 |---|---|
 | Markup | HTML5 |
 | Styling | CSS3 (Flexbox, background image, overlay, media queries) |
 | Logic | Vanilla JavaScript (`Date`, `setInterval`) |
-| Fonts | Google Fonts — Poppins |
+| Fonts | Google Fonts â€” Poppins |
 | Assets | WebP background image |
 | Hosting | Any static host (GitHub Pages, Netlify, Vercel) |
 
 ---
 
-## ✨ Features
+## âœ¨ Features
 
-- 🗓️ **Live countdown** — days, hours, minutes, and seconds
-- 🔄 **Updates every second** via `setInterval`
-- 🖼️ **Full-screen hero background** with a dark overlay for readability
-- 💗 **Pink neon accents** with hover glow effects on the numbers
-- 📱 **Fully responsive** — 768px, 480px breakpoints; numbers wrap into a 2×2 grid on mobile
-- ⚙️ **Easy to customize** — one constant controls the target date
+- ðŸ—“ï¸ **Live countdown** â€” days, hours, minutes, and seconds
+- ðŸ”„ **Updates every second** via `setInterval`
+- ðŸ–¼ï¸ **Full-screen hero background** with a dark overlay for readability
+- ðŸ’— **Pink neon accents** with hover glow effects on the numbers
+- ðŸ“± **Fully responsive** â€” 768px, 480px breakpoints; numbers wrap into a 2Ã—2 grid on mobile
+- âš™ï¸ **Easy to customize** â€” one constant controls the target date
 
 ---
 
-## ⚙️ How It Works
+## âš™ï¸ How It Works
 
 ```js
 const endDate = "28 Feburary 2026 6:30 PM";
@@ -75,22 +75,22 @@ setInterval(clock, 1000);
 
 ---
 
-## 📁 Project Structure
+## ðŸ“ Project Structure
 
 ```
 COUNTDOWN-TIMER/
-├── index.html                    # Hero layout + timer inputs
-├── css/
-│   └── custom.css                # Background, overlay, neon styling, breakpoints
-├── js/
-│   └── app.js                    # Date math + 1-second interval
-└── images/
-    └── background-image.webp     # Full-screen background
+â”œâ”€â”€ index.html                    # Hero layout + timer inputs
+â”œâ”€â”€ css/
+â”‚   â””â”€â”€ custom.css                # Background, overlay, neon styling, breakpoints
+â”œâ”€â”€ js/
+â”‚   â””â”€â”€ app.js                    # Date math + 1-second interval
+â””â”€â”€ images/
+    â””â”€â”€ background-image.webp     # Full-screen background
 ```
 
 ---
 
-## 🚀 Getting Started
+## ðŸš€ Getting Started
 
 No installation required.
 
@@ -109,7 +109,7 @@ const endDate = "2026-12-31T23:59:59";
 
 ---
 
-## 🧠 Concepts Practiced
+## ðŸ§  Concepts Practiced
 
 - JavaScript `Date` arithmetic and time conversion
 - `setInterval` for real-time UI updates
@@ -119,7 +119,7 @@ const endDate = "2026-12-31T23:59:59";
 
 ---
 
-## 👨‍💻 Author
+## ðŸ‘¨â€ðŸ’» Author
 
-**Faisal Raza Lakhany**
+**Muhammad Faisal Lakhany**
 GitHub: [@faisalrlakhany](https://github.com/faisalrlakhany)
